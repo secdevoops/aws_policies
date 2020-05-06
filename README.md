@@ -2,4 +2,4 @@
 
 | Policy | Description |
 | ------ | ----------- |
-| [./S3UserFolerPolicy.json] | Alows your aws users to access to their user folder under **myBucket** inside the **home** folder |
+| S3UserFolerPolicy.json | Alows your aws users to access to their user folder under **myBucket** inside the **home** folder |
